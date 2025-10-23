@@ -16,7 +16,7 @@
 **Concepts:** Data Structures, Algorithms, Object Oriented Programming, Parallel Programming, Database Design, Software Design Patterns
 
 ## 🚀 Featured Projects
-[Pending]
+- [**C++/Assembly Minesweeper**](https://github.com/Lelis-salazar/cpp-asm-minesweeper) - Low-level implementation combining C++ with Assembly for game logic and performance optimization
 
 ## 📫 Let's Connect
 📍 San José, Costa Rica  
