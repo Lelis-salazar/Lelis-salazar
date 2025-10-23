@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Lelis Salazar
 
-<!--
-**Lelis-salazar/Lelis-salazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science student with an emphasis in Software Engineering** @ University of Costa Rica  
+🌎 Based in Costa Rica | Looking for **Junior** or **Internship** opportunities <br>
+🌐 Languages: Spanish (Native), English (Advanced), Portuguese (Intermediate)
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- Strong foundation in **Data Structures, Algorithms, and Software Design**
+- Experienced in **risk management** and **process optimization** at Amazon
+- Always learning new technologies — currently exploring **Python networking**
+- Favorite hobbies: going to dancing classes and playing videogames!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+**Languages:** C++, Python, Java, SQL, Assembly  
+**Technologies:** Git, VS Code, Figma, Pybind, Assembly integration, Linux 
+**Concepts:** Data Structures, Algorithms, Object Oriented Programming, Parallel Programming, Database Design, Software Design Patterns
+
+## 🚀 Featured Projects
+[Pending]
+
+## 📫 Let's Connect
+📍 San José, Costa Rica  
+📧 Lelis.Salazar.Tech@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/lelissalazar/)  
+💻 [GitHub](https://github.com/lelis-salazar)
